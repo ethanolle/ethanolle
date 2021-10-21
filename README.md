@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ethanolle
 - 👀 I’m interested in Node.js
-- 🌱 I’m currently learning GraphQl
 - 📫 How to reach me ethan.sayagh@gmail.com
 
 <!---
