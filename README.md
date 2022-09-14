@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ethanolle
-- 👀 I’m interested in Node.js
+- 👀 I’m interested in Web & Blockchain
 - 📫 How to reach me ethan.sayagh@gmail.com
 
 <!---
